@@ -1,15 +1,15 @@
-#Oleg Kliuiko
+## Oleg Kliuiko
 
-##Contacts
+### Contacts
 Location: Minsk, Belarus  
 Email: oleg@kliuiko.ru  
 Telegram: @kliuiko  
 Phone: +375(25)965-35-22  
 
-##Summary
+### Summary
 For 12 years I have tried myself in different directions: in design, in internet marketing, in programming, in personnel management. As a freelancer, I have worked with over 100 projects. Also for two years I ran a website development studio. On this course, I want to deepen my knowledge of programming in JavaScript and get an RS School certificate. 
 
-##Experience 
+### Experience 
 + 2009-2015:  
 Development of own information sites for advertising sales; 
 
@@ -24,7 +24,7 @@ Head of website development studio;
 Freelance;  
 Development my own web services;
 
-##Skills
+### Skills
 + HTML/CSS
 + JavaScript/Jquery
 + PHP
@@ -51,7 +51,7 @@ Development my own web services;
 + WordPress
 + uCoz
 
-##Code Example
+### Code Example
 
 ```
 let example = ( str ) => console.log( str );
@@ -59,7 +59,7 @@ let example = ( str ) => console.log( str );
 example( 'Hello RS School' );
 ```
 
-##Projects examples
+### Projects examples
 
 + https://coronavirus-belarus.by/
 + https://interfax.by/
@@ -67,8 +67,8 @@ example( 'Hello RS School' );
 + https://egida.by/
 + https://kliuiko.ru/
 
-##Education:
+### Education:
 BSU, Faculty of Mechanics and Mathematics
 
-##English
+### English
 A1+
