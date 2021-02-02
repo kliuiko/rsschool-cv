@@ -6,6 +6,7 @@ Location: Minsk, Belarus
 Email: oleg@kliuiko.ru  
 Telegram: @kliuiko  
 Phone: +375(25)965-35-22  
+Vk: https://vk.com/o.kliuiko
 
 ### Summary
 
@@ -35,7 +36,7 @@ Development my own web services;
 + UX/UI, Photoshop
 + WordPress, uCoz
 
-### Code Example
+### Code example
 
 ```
 let example = ( str ) => console.log( str );
