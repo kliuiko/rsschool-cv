@@ -6,7 +6,7 @@ Location: Minsk, Belarus
 Email: oleg@kliuiko.ru  
 Telegram: @kliuiko  
 Phone: +375(25)965-35-22  
-Vk: https://vk.com/o.kliuiko
+VK: [vk.com/o.kliuiko](https://vk.com/o.kliuiko)
 
 ### Summary
 
@@ -46,11 +46,11 @@ example( 'Hello RS School' );
 
 ### Projects examples
 
-+ https://coronavirus-belarus.by/
-+ https://interfax.by/
-+ https://pobeda.mintrans.ru/
-+ https://egida.by/
-+ https://kliuiko.ru/
++ [coronavirus-belarus.by](https://coronavirus-belarus.by/)
++ [interfax.by](https://interfax.by/)
++ [pobeda.mintrans.ru](https://pobeda.mintrans.ru/)
++ [egida.by](https://egida.by/)
++ [kliuiko.ru](https://kliuiko.ru/)
 
 ### Education
 
