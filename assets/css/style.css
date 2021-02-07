@@ -102,6 +102,7 @@ img {
 }
 
 .persone__name {
+    margin: 0;
     font-size: 2.250em;
 }
 
@@ -110,6 +111,7 @@ img {
 }
 
 .persone__position {
+    margin: 0;
     font-size: 1.5em;
 }
 
