@@ -1,0 +1,190 @@
+* {
+    box-sizing: border-box;
+}
+
+/* COMMON */
+body {
+    background-color: #111c31;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    border-bottom: 1px solid #0067de;
+    color: #0067de;
+    text-decoration: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+/* MAIN */
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    max-width: 1000px;
+    margin: 40px 0;
+    background-color: #fff;
+    display: flex;
+}
+
+@media screen and (max-width: 991px) {
+    .wrapper {
+        padding: 10px;
+    }
+
+    .main {
+        max-width: 100%;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .main {
+        flex-wrap: wrap;
+    }
+}
+
+/* SECTIONS */
+.left-section {
+    width: 40%;
+    padding: 20px 40px;
+    background-color: #f1f1f1;
+}
+
+.right-section {
+    width: 60%;
+    padding: 20px 40px;
+}
+
+@media screen and (max-width: 767px) {
+    .left-section,
+    .right-section {
+        width: 100%;
+        padding: 15px;
+    }
+}
+
+/* BLOCK */
+.block {
+    margin-bottom: 40px;
+}
+
+.block:last-child {
+    margin-bottom: 0;
+}
+
+.block__title {
+    margin-bottom: 20px;
+    color: #0067de;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.block--left .block__body {
+    color: #707070;
+}
+
+/* PERSONE */
+.persone {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+    text-align: center;
+}
+
+.persone__name {
+    font-size: 2.250em;
+}
+
+.persone__name > span {
+    color: #0067de;
+}
+
+.persone__position {
+    font-size: 1.5em;
+}
+
+/* AVATAR */
+.persone__avatar {
+    margin-top: 20px;
+}
+
+.avatar__img {
+    max-height: 180px;
+    border-radius: 100%;
+}
+
+/* CONTSCTS */
+.contacts__link {
+}
+
+/* PROGRESS */
+.progress__head {
+    font-weight: bold;
+}
+
+/* SKILLS */
+.block__skills {
+    margin-bottom: 20px;
+}
+
+.skills__item {
+    margin-bottom: 10px;
+}
+
+.skills__item:last-child {
+    margin-bottom: 0;
+}
+
+.skills-item {
+    align-items: center;
+    display: flex;
+}
+
+.skills__title {
+    min-width: 100px;
+}
+
+.skills__progress {
+    width: 200px;
+    height: 6px;
+    margin-right: 15px;
+    border-radius: 4px;
+    background-color: #ccc;
+    position: relative;
+}
+
+.skills__progress > div {
+    content: "";
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0067de;
+    border-radius: 4px;
+}
+
+/* TAGS */
+.tags {
+    display: flex;
+    list-style: none;
+    margin: 0 -10px;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.tag-item {
+    padding: 5px 10px;
+}
+
+.tag-item__link {
+}
